@@ -1,0 +1,6 @@
+llama-index
+mcp-server-client
+playwright
+pandas
+matplotlib
+requests
